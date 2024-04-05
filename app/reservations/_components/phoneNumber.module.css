@@ -1,0 +1,7 @@
+.custom-phone-input {
+  --PhoneInputCountryFlag-height: 20px; /* Example height */
+  --PhoneInputCountryFlag-borderColor: transparent; /* Hide flag border */
+  --PhoneInputCountrySelectArrow-color: #000; /* Example color for arrow */
+  --PhoneInputCountrySelectArrow-opacity: 0.6; /* Example opacity for arrow */
+  --PhoneInput-color--focus: none; /* Hide focus outline */
+}
